@@ -1,0 +1,19 @@
+{
+  "name": "angle-to-direction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angle-to-direction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jieli-fe/angle-to-direction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jieli-fe/angle-to-direction/issues"
+  },
+  "homepage": "https://github.com/jieli-fe/angle-to-direction#readme"
+}
