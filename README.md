@@ -10,7 +10,7 @@ npm install angle-transform-direction --save
 使用:
 
 ```js
-var tans = require('angle-to-direction');
+var tans = require('angle-transform-direction');
 
 console.log(tans.degree(50)); // "North East"
 console.log(tans.degreeAbbr(50)); // "NE"
